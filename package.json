@@ -1,18 +1,18 @@
 {
-  "name": "eslint-plugin-spellcheck",
+  "name": "@codaco/eslint-plugin-spellcheck",
   "version": "0.0.14",
   "description": "ESLint rules to spell check js files",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/aotaduy/eslint-plugin-spellcheck.git"
+    "url": "https://github.com/codaco/eslint-plugin-spellcheck.git"
   },
   "author": "Andres Otaduy",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/aotaduy/eslint-plugin-spellcheck/issues"
+    "url": "https://github.com/codaco/eslint-plugin-spellcheck/issues"
   },
-  "homepage": "https://github.com/aotaduy/eslint-plugin-spellcheck",
+  "homepage": "https://github.com/codaco/eslint-plugin-spellcheck",
   "scripts": {
     "test": "gulp",
     "performance": "gulp performance",
